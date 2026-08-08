@@ -7,7 +7,7 @@ The study characterizes under-documented reports, tests candidate mechanisms for
 - **Registration (analysis protocol):** [OSF, doi:10.17605/OSF.IO/3EF4W](https://doi.org/10.17605/OSF.IO/3EF4W)
 - **Manuscript:** under review (2026)
 - **Author:** Shakil Mahmud (sole author)
-- **License:** MIT
+- **License:** GPL-3.0
 
 ## Data
 
